@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.simplilearn</groupId>
-	<artifactId>APIone</artifactId>
+	<artifactId>APITwo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>APIone</name>
-	<description>API One</description>
+	<name>APITwo</name>
+	<description>APITwo</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
